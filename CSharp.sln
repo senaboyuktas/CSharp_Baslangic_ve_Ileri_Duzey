@@ -75,6 +75,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KullaniciGirisUygulama", "K
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxNesnesi", "MessageBoxNesnesi\MessageBoxNesnesi.csproj", "{682170CE-448A-4FF5-BA33-C6051AFB0289}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBoxUygulama", "MessageBoxUygulama\MessageBoxUygulama.csproj", "{D77451DE-68B3-4474-BB62-6CC72BC46387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -225,6 +227,10 @@ Global
 		{682170CE-448A-4FF5-BA33-C6051AFB0289}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{682170CE-448A-4FF5-BA33-C6051AFB0289}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{682170CE-448A-4FF5-BA33-C6051AFB0289}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D77451DE-68B3-4474-BB62-6CC72BC46387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D77451DE-68B3-4474-BB62-6CC72BC46387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D77451DE-68B3-4474-BB62-6CC72BC46387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D77451DE-68B3-4474-BB62-6CC72BC46387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
