@@ -30,5 +30,3 @@ Bu kurs ile C# programlama dili ile ilgili yoğun ve kapsamlı bir eğitim aldı
 8. Generic
 9. Windows Form
 10. Dosya / Klasör İşlemleri
-11. Hata Yönetimi
-12. Yenilikler
